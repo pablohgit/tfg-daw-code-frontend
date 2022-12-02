@@ -1,0 +1,5 @@
+
+/scripts/hooks/*.js
+/src/js/main.js
+#/src/ts/
+/web/**
